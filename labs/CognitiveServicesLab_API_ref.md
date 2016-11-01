@@ -17,7 +17,7 @@ We are going to sign up for two Cognitive Services trial accounts:
 To sign up, follow these instructions:
 
 1.  Go to https://www.microsoft.com/cognitive-services/en-us/apis
-*  Click on "My account" in the upper right-hand corner to log in to Cognitive Services. ![my cognitive services account](images/home_account_circle.PNG)
+*  Click on "My account" in the upper right-hand corner to log in to Cognitive Services.
 *  You will see a 'Hello' welcome page with a listing of trials from which you can request new ones.  Please select "Entity Linking", "Computer Vision", "Emotion", "Face", and "Text Analytics".  Read and agree to Microsoft Cognitive Services Terms and Microsoft Privacy Statement.  Click "Subscribe" to sign up for these trials.
 
 ## Step 2:  Open up the API Reference and testing console
