@@ -8,23 +8,23 @@ For additional resources see the [Additional Resources](ADDITIONAL_RESOURCES.md)
 
 To begin, satisfy some pre-reqs and go through an example using the .NET Bot Builder SDK.  This introductory lab is located in this repository [here](labs/Lab_Getting_Started.md).
 
-Next, turn to the "Bot Framework Developer's Introduction" guide (COMING SOON) for a 0 to 60 style walk-through of creating your first bot and publishing it, and consuming it within Skype.
-
-You'll need Visual Studio (2015 preferably - Community Edition is fine), the Bot Emulator, and the Bot Template.  Instructions in the guide.
+You'll need an IDE or good code editor (Visual Studio 2015 or Visual Studio Code are recommended - both are free) and the Bot Emulator, along with other development tools and subscriptions listed in the labs.
 
 ##  What can be found in `bot-education`
 
 **Samples**
 * Sample bots in Visual Studio solution formats (C#)
+* Sample bots for Node.js SDK - COMING SOON
 * Sample Cognitive Services API code snippets (as Jupyter notebooks mainly) found [here](/CognitiveServices/Samples)
 * Sample Azure Machine Learning solutions (e.g. anomaly detection) found [here](/AzureMachineLearning/Samples)
 
 **Labs**
 * [Getting Started in the .NET SDK](labs/Lab_Getting_Started.md)
 * More labs [here](/labs)
+* Node.js SDK labs - COMING SOON
 
 **Guides/Slide Decks**
-* Under [Decks](/Decks)
+* Under [Decks](/Decks) (updated often)
 
 ##  Overall learning objectives
 
