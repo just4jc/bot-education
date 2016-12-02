@@ -9,7 +9,7 @@ This 2-Day course, designed for developers and data scientists, will ramp up the
 ## Important Class Links
 
 * Chat forum [here](https://gitter.im/analytics-at-ms/conf-bots?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-* NEW Syllabus and Course Description](https://github.com/michhar/bot-education/wiki/Syllabus-for-2-Day-Workshop) on the wiki (v1 Syllabus  is also on the wiki [here](https://github.com/michhar/bot-education/wiki/Release-v1-Bot-Framework-Syllabus--for--2-Day-Delivery)
+* NEW [Syllabus and Course Description](https://github.com/michhar/bot-education/wiki/Syllabus-for-2-Day-Workshop) on the wiki.  The v1 Course Syllabus is also on the wiki [here](https://github.com/michhar/bot-education/wiki/Release-v1-Bot-Framework-Syllabus--for--2-Day-Delivery).
 
 ##  General Learning Objectives
 
