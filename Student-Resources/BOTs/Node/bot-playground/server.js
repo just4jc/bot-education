@@ -48,7 +48,6 @@ bot.dialog('/', function (session) {
 /************* Example 2 **************/
 
 // // What's different about this bot setup? (this is the new style, btw, for v3.5.0)
-
 // var bot = new builder.UniversalBot(connector, [
 //     function (session) {
 //         // Introducing a builtin prompt
@@ -92,6 +91,30 @@ bot.dialog('/', function (session) {
 
 // // Can you make this into the new style?
 
+/************* Example 4 **************/
+
+// // Setup bot and root waterfall - os this old or new style?
+// var bot = new builder.UniversalBot(connector, [
+//     function (session) {
+//         builder.Prompts.text(session, "Hello... What's your name?");
+//     },
+//     function (session, results) {
+//         session.userData.name = results.response;
+//         builder.Prompts.number(session, "Hi " + results.response + ", How many years have you been coding?"); 
+//     },
+//     function (session, results) {
+//         session.userData.coding = results.response;
+//         builder.Prompts.choice(session, "What language do you code Node using?", ["JavaScript", "CoffeeScript", 
+//             "TypeScript"]);
+//     },
+//     function (session, results) {
+//         session.userData.language = results.response.entity;
+//         session.send("Got it... " + session.userData.name + 
+//                      " you've been programming for " + session.userData.coding + 
+//                      " years and use " + session.userData.language + ".");
+//     }
+// ]);
+
 /************* Advanced Example **************/
 
 // Test this bot locally: https://github.com/Microsoft/BotBuilder/blob/master/Node/examples/basics-menus/app.js
@@ -104,7 +127,42 @@ server.get(/.*/, restify.serveStatic({
 	'default': 'index.html'
 }));
 
+/************* Example 5 **************/
 
+
+// // Create a bot
+// var bot = new builder.UniversalBot(connector);
+
+// // Think of a sandwich (the bread is the root dialog and meat/cheese the 'askName' dialog)
+// bot.dialog('/', [
+//     function (session) {
+//         // "push" onto the dialog stack
+//         session.beginDialog('/cards');
+//     },
+//     function (session, msg) {
+//         session.send(msg);
+//     }
+// ]);
+
+// // Cards in messages
+// bot.dialog('/cards', [
+//     function (session) {
+//         var msg = new builder.Message(session)
+//             .textFormat(builder.TextFormat.xml)
+//             .attachments([
+//                 new builder.HeroCard(session)
+//                     .title("Hero Card")
+//                     .subtitle("Space Needle")
+//                     .text("The <b>Space Needle</b> is an observation tower in Seattle, Washington, a landmark of the Pacific Northwest, and an icon of Seattle.")
+//                     .images([
+//                         builder.CardImage.create(session, 
+//                             "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Seattlenighttimequeenanne.jpg/320px-Seattlenighttimequeenanne.jpg")
+//                     ])
+//                     .tap(builder.CardAction.openUrl(session, "https://en.wikipedia.org/wiki/Space_Needle"))
+//             ]);
+//         session.endDialog(msg);
+//     }
+// ]);
 
 // More samples here:  https://github.com/Microsoft/BotBuilder-Samples
 // And of course here:  https://github.com/Microsoft/BotBuilder/tree/master/Node/examples
