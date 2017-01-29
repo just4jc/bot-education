@@ -1,6 +1,8 @@
 # Lab:  Setup LUIS Model
 
-This LUIS model is going to be consumed by a Bot built with the Microsoft Bot Framework.  This model is meant to capture the intents of a user who is finding out information about a conference (e.g. "what time is Sally Mason speaking?" or "When is the Data Science with Python talk?").
+ This LUIS model is meant to capture the intents of a user who is finding out information about a conference (e.g. "what time is Sally Mason speaking?" or "When is the Data Science with Python talk?").
+
+This model is intended to be consumed by a Bot built with the Microsoft Bot Framework, but can be leveraged in other apps. 
 
 ## Instructions
 
@@ -11,7 +13,7 @@ This LUIS model is going to be consumed by a Bot built with the Microsoft Bot Fr
   * room
   * talk_title
   * speaker
-* Add the following Intents
+* Add the following Intents and when you do "Add Action", check "Fufillment" and Action Type of "JsonRequest".
   * wherespeaker
   * whenspeaker
 
@@ -34,7 +36,14 @@ This LUIS model is going to be consumed by a Bot built with the Microsoft Bot Fr
 8.  Click on "App Settings" in the upper lefthand corner and make a note of
   * App Id
   * Endpoint key (you probably need to create one so go ahead)
+*  Click on "Publish" in the upper lefthand corner and publish the web service.  
+
+Note:  For registered bots you may need a Bot Framework specific endpoint. See https://www.luis.ai/Help#PublishingModel for more help and Bot Framework specific information.
+
 
 Congratulations!  Enjoy your new language model!
 
-Good Docs are found through the link "Help Docs" in the navi bar.
+### Additional Info
+
+* Good docs are found through the link "Help Docs" in the navi bar.  
+* A great LUIS bot sample with a useful guide can be found at https://github.com/Microsoft/BotBuilder-Samples/tree/master/Node/intelligence-LUIS.
