@@ -8,16 +8,6 @@ Fufill those listed on the wiki on this repo in the Syllabus, [here](https://git
 
 ## Setup
 
-### Cognitive Services trial keys
-
-To sign up for the Computer Vision trial, follow these instructions:
-
-1.  Go to https://www.microsoft.com/cognitive-services/en-us/apis
-*  Click on "My account" in the upper right-hand corner to log in to Cognitive Services.
-*  You will see a 'Hello' welcome page with a listing of trials from which you can request new ones.  Please select "Entity Linking", "Computer Vision" and "Text Analytics".  Read and decide if you agree to Microsoft Cognitive Services Terms and Microsoft Privacy Statement.  After agreeing, click "Subscribe" to sign up for these trials.  
-
-You will then be able to gain access to your keys.
-
 ### Setup Environment
 
 1.  Ensure you have the emulator installed (found in the prereqs link above).
