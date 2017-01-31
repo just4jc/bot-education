@@ -22,6 +22,8 @@ Fufill those listed on the wiki on this repo in the Syllabus, [here](https://git
 ## Instructions
 
 3.  Open the "local dev" folder in VSCode.
+1.  In terminal install packages with:
+  - `$npm install`
 3.  Start the process in the command terminal (or use VSCode's integrated terminal with (type into the commmand prompt):
   - `$ node server.js`
 5.  Start the emulator (make sure this is in your PATH or go to its folder) with:
