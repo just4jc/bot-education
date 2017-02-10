@@ -1,6 +1,6 @@
 # Developing and Deploying Intelligent Chat Bots Course
 
-[![Join the chat at https://gitter.im/analytics-at-ms/class-bots/Lobby](https://gitter.im/analytics-at-ms/class-bots/Lobby.svg)](https://gitter.im/analytics-at-ms/class-bots?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+[![Join the chat at https://gitter.im/class-bots/Lobby](https://badges.gitter.im/class-bots/Lobby.svg)](https://gitter.im/analytics-at-ms/class-bots?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 ## About the Course
 
