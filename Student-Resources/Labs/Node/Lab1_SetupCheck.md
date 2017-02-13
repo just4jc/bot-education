@@ -22,12 +22,15 @@ Fufill those listed on the wiki on this repo in the Syllabus, [here](https://git
 ## Instructions
 
 3.  Open the "local dev" folder in VSCode.
-1.  In terminal install packages with:
-  - `$npm install`
-3.  Start the process in the command terminal (or use VSCode's integrated terminal with (type into the commmand prompt):
-  - `$ node server.js`
-5.  Start the emulator (make sure this is in your PATH or go to its folder) with:
-  - Open the emulator (search for "botframework-emulator").
+1.  In terminal install packages with (will pull in from the package.json file):
+  - `npm install`
+3.  Start the process in the command terminal (or use VSCode's integrated terminal) by typing into the commmand prompt:
+  - `node server.js`
+  
+  > Doesn't work? Windows not able to find the node command?  Try adding `NODE_PATH` as a System variable in the Advanced tab of the System Properties dialog and set to the path `%AppData%\npm\node_modules` (Windows 7/8/10) or wherever npm was installed.
+  
+5.  Start the emulator (make sure this is in your PATH or go to its folder or search for "botframework-emulator").
 *  Click on "Enter your endpoint URL", click on the URL, keep App ID and App Password empty, hit "Connect"
 * Test with a few phrases.  Try "hi" and "echo".
+* Take a look at `server.js` file and see if you can modify the messages and follow any exercises.
 
