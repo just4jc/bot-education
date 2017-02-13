@@ -11,11 +11,11 @@ Fufill those listed on the wiki on this repo in the Syllabus, [here](https://git
 ### Setup Environment
 
 1.  Ensure you have the emulator installed (found in the prereqs link above).
-3.  Git clone this repository into a suitable folder on your machine.
+3.  Git clone, using your Git Bash, the following repository into a suitable folder on your machine.  You'll type on the command line:
 
-`git clone https://github.com/Azure/bot-education.git`
+  `git clone https://github.com/Azure/bot-education.git`
 
-### Visual Studio Code
+### Visual Studio Code or Code Editor/IDE
 
 2.  The code we will use in in the folder:  bot-education -> Student-Resources -> BOTs -> Node -> bot-hello.  Copy the code folder to another location for "local dev".
 
