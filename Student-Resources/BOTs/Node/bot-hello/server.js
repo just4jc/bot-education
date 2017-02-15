@@ -45,17 +45,39 @@ server.post('/api/messages', connector.listen());
 var bot = new builder.UniversalBot(connector);
 
 // This is the root dialog
-bot.dialog('/', function(session) {
-    session.send("Hi there!  Welcome to the root dialog.");
+bot.dialog('/', [ 
+    function(session) {
 
-    // Uncomment to have the option of the fun waterfall dialog below
-    // session.beginDialog('/waterfall');
+        // This is considered the root dialog ("/") and we can send a welcome here
+        session.send("Hi there!  Welcome to the root dialog.  You are going places...");
 
-    // Uncomment as well to have an indicator you have returned to root
-    // session.send("Welcome back to the root dialog!");
-});
+        // "Push" the hello dialog onto the dialog stack
+        session.beginDialog('/hello');
+
+        // Uncomment to have the option of the waterfall dialog below, and comment the hello out
+        // It doesn't do much, but the code is interesting...
+        // session.beginDialog('/waterfall');
+    },
+    function(session, results) {
+        // Using the returned results, print out the response to the prompt and send reply
+        session.send("Welcome back to the root dialog, %s!", results.response);
+    }
+]);
+
+bot.dialog('/hello', [
+    function(session) {
+        session.send("Welcome to the hello dialog...")
+        builder.Prompts.text(session, "Hi there.  What's a good nickname for you?");
+    },
+    function(session, results) {
+        // "Pop" the current dialog off the stack and return to parent
+        session.endDialogWithResult(results);
+    }
+]);
+
 
 // This is a dialog with a waterfall (an array of functions for a conversation)
+// It makes use of a storage "bag" called the dialogData used for temp storage
 bot.dialog('/waterfall', [
     function(session, args, next) {
         //session.send("This is step one.");
