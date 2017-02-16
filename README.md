@@ -10,6 +10,15 @@ Explore the information on the [wiki page](https://github.com/Azure/bot-educatio
 
 Also, on the wiki you will find a comprehensive list of [use cases](https://github.com/Azure/bot-education/wiki/Cognitive-Services-Scenarios) for Cognitive Services with more information being added in the future such as sample code.
 
+## For Instructors:
+
+1. Please view the instructions given in the [Instructor-Resources folder](Instructor-Resources).
+
+
+## For Students:
+
+1. The rendered course materials are available in the [Student-Resources folder](Student-Resources).
+
 ## Important Class Links
 
 * [2 Day Course Syllabus](https://github.com/Azure/bot-education/wiki/Syllabus-for-2-Day-Workshop) on the wiki.
