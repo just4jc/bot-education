@@ -31,7 +31,7 @@ Fufill those listed on the wiki on this repo in the Syllabus, [here](https://git
   
 5.  Start the emulator (make sure this is in your PATH or go to its folder or search for "botframework-emulator").
 *  Click on "Enter your endpoint URL", click on the URL, or enter
-    `http://localhost:3978/api/message` into the endpoint field
+    `http://localhost:3978/api/messages` into the endpoint field
   and keep App ID and App Password empty, hit "Connect" (more info [here](https://github.com/microsoft/botframework-emulator/wiki/Getting-Started#connect-to-a-bot-running-on-localhost)).
 * Test with a few phrases.  Try "hi" and "echo".
 * Take a look at `server.js` file and see if you can modify the messages and follow any exercises.
