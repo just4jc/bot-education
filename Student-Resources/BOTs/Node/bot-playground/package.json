@@ -1,18 +1,16 @@
 {
   "name": "mybot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Educational bot",
   "main": "server.js",
   "dependencies": {
-    "botbuilder": "^3.5.4"  
-  },
-  "devDependencies": {
-      "restify": "^4.1.1"
-  },  
+    "botbuilder": "^3.6.0",
+    "restify": "^4.3.0"
+  }, 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Micheleen Harris",
   "license": "MIT"
 }
