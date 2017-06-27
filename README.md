@@ -6,11 +6,11 @@ This 2-Day course is designed for developers and data scientists. This course wi
 
 ## For Instructors:
 
-1. Please view the instructions given in the [Instructor-Resources folder](Instructor-Resources).
+- Please view the instructions given in the [Instructor-Resources folder](Instructor-Resources).
 
 ## For Students:
 
-1. The rendered course materials are available in the [Student-Resources folder](Student-Resources).
+- The rendered course materials are available in the [Student-Resources folder](Student-Resources).
 
 
 **For Instructor-Led:**
