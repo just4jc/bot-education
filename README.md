@@ -15,9 +15,9 @@ The goal of this course is to cover the following modules:
 4. Cognitive Services Overview
 5. Cognitive Services Integration with Bots
 6. Testing Bots
-   6.1  Unit Tests
-   6.2  Using Ngrok for Testing
-   6.3  Direct Line API
+   * Unit Tests
+   * Using Ngrok for Testing
+   * Direct Line API
 7. Monitor Bot Health - Telemetry
 8. Introduction to LUIS
 
