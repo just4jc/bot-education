@@ -1,13 +1,15 @@
 # Student Resources for this Course
 
-More COMING SOON!
+Satisfy the pre-reqs and perform the Hands on Labs in the following order:
 
-##  Student Quick Start
+1. Getting Started with a Simple Bot: BotsTennisLab
+2. Intro to Text Analytics in Cognitive Services: CognitiveServicesTextMiningLab
+3. Integration of Cognitive Services API with Bot Framework: BotsSentimentLab
+4. Intro to UI Controls for Bots: BotsRichUILab
+5. Track Bot Application's Health: BotsTelemetryLab
+6. Developing Unit Tests for Bots: BotsUnitTestingLab
+7. Using Ngrpk for Rapid Development and Testing: BotsNgrokLab
 
-To begin, satisfy some pre-reqs and go through an example using the .NET Bot Builder SDK.  This introductory lab is located in this repository [here](Student-Resources/Labs/Lab_Getting_Started.md).
 
-For a Node.js getting started lab, try out [this](https://github.com/michhar/bot-education-ocrbot/blob/master/LabStart.md) one in which you create an simple, yet intelligent OCR bot.
 
-You'll need an IDE or good code editor (Visual Studio 2015 or Visual Studio Code are recommended - both are free) and the Bot Emulator, along with other development tools and subscriptions listed in the labs.
 
-Hope this inspires you to build more amazing bots!
