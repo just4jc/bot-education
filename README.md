@@ -4,6 +4,23 @@
 
 This 2-Day course is designed for developers and data scientists. This course will ramp up the attendee quickly on the Microsoft Bot Framework as a development tool/portal and the Cognitive Services APIs for intelligence, linking the two in the creation of an intelligent chat bot for conversational platforms. Thoughtful design, much like in Data Science, as well as user experience will be emphasized along with testing to create the best bot experiences.
 
+## Syllabus
+
+The goal of this course is to cover the following modules:
+
+1. Principles of Bot Design
+2. Types of Bots
+3. Introduction to Microsoft Bot Framework
+4. Microsoft Bot Framework - Working With Channels
+4. Cognitive Services Overview
+5. Cognitive Services Integration with Bots
+6. Testing Bots
+   6.1  Unit Tests
+   6.2  Using Ngrok for Testing
+   6.3  Direct Line API
+7. Monitor Bot Health - Telemetry
+8. Introduction to LUIS
+
 ## For Instructors:
 
 - Please view the instructions given in the [Instructor-Resources folder](Instructor-Resources).
