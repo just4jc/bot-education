@@ -8,7 +8,7 @@ Satisfy the pre-reqs and perform the Hands on Labs in the following order:
 4. Intro to UI Controls for Bots: BotsRichUILab
 5. Track Bot Application's Health: BotsTelemetryLab
 6. Developing Unit Tests for Bots: BotsUnitTestingLab
-7. Using Ngrpk for Rapid Development and Testing: BotsNgrokLab
+7. Using Ngrok for Rapid Development and Testing: BotsNgrokLab
 
 
 
