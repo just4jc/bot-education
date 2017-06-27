@@ -20,7 +20,7 @@ This 2-Day course is designed for developers and data scientists. This course wi
 
 **For Self-Study:**
 * We recommend dowloading the site contents or cloning it if you can do so to your local computer.
-* Go to Decks folder and follow along with the slides.
+* Go to Slides folder and follow along with the slides.
 * When there is a lab indicated, you may find the lab instructions in the Labs folder.
 
 ## General Links to Get Started on the Bot Framework
