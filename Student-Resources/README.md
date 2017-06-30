@@ -1,4 +1,4 @@
-# Student Resources for this Course
+9# Student Resources for this Course
 
 ## Pre-requisites
 1.	Visual Studio 2015 (Community version is ok) (could use Visual Studio Code on non-Windows systems – however most these instructions are working from Visual Studio) - download [here](https://beta.visualstudio.com/downloads/)
@@ -21,6 +21,7 @@ On satisfying the pre-reqs, begin with the Hands on Labs in the following order:
 6. Track Bot Application's Health: BotsTelemetryLab
 7. Developing Unit Tests for Bots: BotsUnitTestingLab
 8. Using Ngrok for Rapid Development and Testing: BotsNgrokLab
+9. Develop a LUIS App for your bots: BotsLuisLab
 
 
 
