@@ -23,6 +23,7 @@ On satisfying the pre-reqs, begin with the Hands on Labs in the following order:
 8. Using Ngrok for Rapid Development and Testing: BotsNgrokLab
 9. Develop a LUIS App for your bots: BotsLuisLab
 10. Logging Conversation Data: BotsLoggingLab
+11. Direct Communication with your bot: BotsDirectLineLab
 
 
 
