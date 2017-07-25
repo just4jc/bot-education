@@ -1,5 +1,9 @@
 # Instructor Resources for this Course
 
+The pattern of instruction best suited for this course is to have a presentation followed by a lab. The slides can be presented in the following order:
+
+
+
 ## Pre-requisites
 1.	Visual Studio 2015 (Community version is ok) (could use Visual Studio Code on non-Windows systems – however most these instructions are working from Visual Studio) - download [here](https://beta.visualstudio.com/downloads/)
 2.	A Microsoft Account to log into the Bot Framework developer portal, which you will use to register your Bot as well as to sign up for Cognitive Services subscriptions (if you have Hotmail, Live, Outlook.com, or an Xbox account then you already have a Microsoft Account).
