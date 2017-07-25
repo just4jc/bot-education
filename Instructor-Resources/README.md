@@ -2,6 +2,11 @@
 
 The pattern of instruction best suited for this course is to have a presentation followed by a lab. The slides can be presented in the following order:
 
+1. Overview - Bot Framework
+2. Cognitive Services
+3. Testing Bots
+4. LUIS
+5. BotsLogging
 
 
 ## Pre-requisites
