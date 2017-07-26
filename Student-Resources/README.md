@@ -14,8 +14,8 @@
 On satisfying the pre-reqs, begin with the Hands on Labs in the following order:
 
 1. Getting Started with a Simple Bot: BotsTennisLab
-2. Intro to Text Analytics in Cognitive Services: CognitiveServicesTextMiningLab
-3. Publishing and Registering: BotsPublishingAndRegisteringLab
+2. Publishing and Registering: BotsPublishingAndRegisteringLab
+3. Intro to Text Analytics in Cognitive Services: CognitiveServicesTextMiningLab
 4. Integration of Cognitive Services API with Bot Framework: BotsSentimentAnalysisLab
 5. Intro to UI Controls for Bots: BotsRichUILab
 6. Track Bot Application's Health: BotsTelemetryLab
