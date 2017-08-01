@@ -11,7 +11,7 @@
 8.	(Optional) An Azure App Insights account to capture telemetry on your bot. 
 
 ## Slides
-The pattern of instruction best suited for this course is to have a presentation followed by a lab. The slides can be presented in the following order:
+The slides can be followed in the following order:
 1. Overview - Bot Framework
 2. Overview - Cognitive Services API
 3. Testing Bots
