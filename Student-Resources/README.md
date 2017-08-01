@@ -10,6 +10,14 @@
 7.	(Optional) Developer accounts on one or more communication services (such as Facebook) where your Bot will communicate (Skype is already set up for you).
 8.	(Optional) An Azure App Insights account to capture telemetry on your bot. 
 
+## Slides
+The pattern of instruction best suited for this course is to have a presentation followed by a lab. The slides can be presented in the following order:
+1. Overview - Bot Framework
+2. Overview - Cognitive Services API
+3. Testing Bots
+4. LUIS
+5. BotsLogging
+
 ## Hands on Labs
 On satisfying the pre-reqs, begin with the Hands on Labs in the following order:
 
