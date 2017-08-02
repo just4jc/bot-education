@@ -1,0 +1,39 @@
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Bot Application1.dll.config
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Bot Application1.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Bot Application1.pdb
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Autofac.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Chronic.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Microsoft.Bot.Builder.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Microsoft.Bot.Connector.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Newtonsoft.Json.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\System.Net.Http.Formatting.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\System.Web.Http.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\System.Web.Http.WebHost.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Autofac.xml
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Microsoft.Bot.Builder.xml
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Microsoft.Bot.Connector.xml
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\Newtonsoft.Json.xml
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\System.Net.Http.Formatting.xml
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\System.Web.Http.xml
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\System.Web.Http.WebHost.xml
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\obj\Debug\TextSentiBot.csprojResolveAssemblyReference.cache
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\obj\Debug\Bot Application1.dll
+c:\users\miprasad\documents\visual studio 2015\Projects\TextSentiBot\TextSentiBot\obj\Debug\Bot Application1.pdb
